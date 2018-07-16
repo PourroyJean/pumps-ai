@@ -35,7 +35,7 @@ You will probably use it for development, and definitely use it for submission.
 
 You should have received a `.rai_profile` file by email.
 Put that file in `~/.rai_profile` (Linux/macOS) or `%HOME%/.rai_profile` (Windows).
-Your `.rai_profile` should look something like this (indented with tabs!)
+Your `.rai_profile` should look something like this (indented with tabs!)(On Mac it works by indenting lines with double spaces)
 
     profile:
         firstname: <your-given-name>
